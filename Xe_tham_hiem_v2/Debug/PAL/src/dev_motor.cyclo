@@ -1,0 +1,8 @@
+../PAL/src/dev_motor.c:19:6:Dev_Motor_Init	1
+../PAL/src/dev_motor.c:45:6:Dev_Motor_Right_SetSpeed	3
+../PAL/src/dev_motor.c:67:6:Dev_Motor_Left_SetSpeed	3
+../PAL/src/dev_motor.c:89:6:Dev_Car_Forward_Normal	1
+../PAL/src/dev_motor.c:97:6:Dev_Car_Backward	1
+../PAL/src/dev_motor.c:105:6:Dev_Car_TurnLeft	1
+../PAL/src/dev_motor.c:113:6:Dev_Car_TurnRight	1
+../PAL/src/dev_motor.c:121:6:Dev_Car_Stop	1

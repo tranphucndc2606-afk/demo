@@ -1,0 +1,2 @@
+../Protocol/src/protocol_uart.c:4:6:Protocol_UART_Init	4	static
+../Protocol/src/protocol_uart.c:16:6:Protocol_Send_Telemetry	88	static

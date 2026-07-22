@@ -1,0 +1,2 @@
+../PAL/src/dev_sonar.c:6:6:Dev_Sonar_Init	4	static
+../PAL/src/dev_sonar.c:12:10:Dev_Sonar_MeasureDistance	16	static

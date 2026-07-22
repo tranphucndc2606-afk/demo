@@ -1,0 +1,5 @@
+../App/src/app_safety.c:4:6:Kalman1D_Init	1
+../App/src/app_safety.c:8:7:Kalman1D_Update	1
+../App/src/app_safety.c:16:6:App_Safety_Buzzer_Init	1
+../App/src/app_safety.c:21:6:App_Safety_Buzzer_On	1
+../App/src/app_safety.c:22:6:App_Safety_Buzzer_Off	1

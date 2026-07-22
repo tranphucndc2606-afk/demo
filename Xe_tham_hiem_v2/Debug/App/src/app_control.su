@@ -1,0 +1,2 @@
+../App/src/app_control.c:29:6:App_Control_Init	8	static
+../App/src/app_control.c:41:6:App_Control_Execute	32	static

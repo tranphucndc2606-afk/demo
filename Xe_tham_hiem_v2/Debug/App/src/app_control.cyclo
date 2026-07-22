@@ -1,0 +1,2 @@
+../App/src/app_control.c:29:6:App_Control_Init	1
+../App/src/app_control.c:41:6:App_Control_Execute	29
