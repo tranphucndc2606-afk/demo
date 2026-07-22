@@ -1,0 +1,19 @@
+# Bỏ qua các thư mục biên dịch / sinh ra tự động
+Debug/
+Release/
+build/
+.metadata/
+
+# Bỏ qua các file tạm của STM32CubeIDE & Keil C
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.su
+*.cyclo
+
+# Bỏ qua cài đặt cá nhân của IDE
+.settings/
+*.launch
